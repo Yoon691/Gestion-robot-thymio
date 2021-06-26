@@ -1,5 +1,5 @@
 # IDEFIX
-**Team shell1**
+
 
 ## Architecture
 Le fichier `aseba.py` contient la classe permettant de faire la liaison entre le code python et le robot.
