@@ -6,7 +6,7 @@ Le fichier `aseba.py` contient la classe permettant de faire la liaison entre le
 
 Le fichier `main.py` contient la classe et le main représentant tout le code, c’est le fichier à exécuter.
 
-Le fichier `testcamera.py` contient le code pour faire marcher la camera et analysé les codes 
+Le fichier `testcamera.py` contient le code pour faire marcher la camera et analyser les codes 
 
 
 Pour lancer le code, il faut :
